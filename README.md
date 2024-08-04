@@ -5,7 +5,7 @@
 * **Backend:** Node.js, AdonisJs, Spring Boot
 * **Mobile:** React Native, Android (Kotlin, Java)
 * **Cloud:** AWS (EC2, Architecting)
-* **Other:** Docker, SQL (assuming based on common full-stack roles)
+* **Other:** Docker, SQL
 
 **Experience:**
 * **ifabula** (Aug 2023 - Present): R&D Fullstack Developer (React Native, AdonisJs, ...)
@@ -18,5 +18,5 @@
 * Belajar Membuat Aplikasi Back-End untuk Pemula - Dicoding Indonesia
 * Belajar Dasar Pemrograman JavaScript - Dicoding Indonesia
 * Memulai Pemrograman Dengan Dart - Dicoding Indonesia
-* Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
+* Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) - Dicoding Indonesia
 * Memulai Pemrograman Dengan Kotlin - Dicoding Indonesia
