@@ -85,5 +85,5 @@ flowchart LR
 
 <p>
   <a href="https://linkedin.com/in/auzy">LinkedIn</a> ·
-  <a href="mailto:a.fauzy4b@gmail.com">Email</a>
+  <a href="https://www.avzy.my.id">Web</a>
 </p>
